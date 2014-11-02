@@ -1,4 +1,16 @@
 ProjectIdeas
 ============
 
-brainstorming for thesis project
+###### Go Language
+* JSON parser
+* Create a full-stack application with GO as the server-side language
+
+###### Music and hardware
+* better looping program for guitar
+* create a recommendation engine with social elements - what are my friends listening to?
+
+###### Data analytics
+* predictive modeling for sports teams 
+
+###### Theoretical/academic
+* Javascript parser/interpreter - possibly extend to include analysis and visualizations of time and space complexity
