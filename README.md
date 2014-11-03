@@ -11,6 +11,7 @@ ProjectIdeas
 
 ###### Data analytics
 * predictive modeling for sports teams 
+* Gaming the stock market using sentiment analysis of Twitter in R
 
 ###### Theoretical/academic
 * Javascript parser/interpreter - possibly extend to include analysis and visualizations of time and space complexity
