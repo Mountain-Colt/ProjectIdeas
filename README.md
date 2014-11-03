@@ -15,3 +15,4 @@ ProjectIdeas
 
 ###### Theoretical/academic
 * Javascript parser/interpreter - possibly extend to include analysis and visualizations of time and space complexity
+* Use ethereum - create distributed system for verifiable and anonymous voting.
