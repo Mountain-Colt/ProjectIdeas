@@ -8,6 +8,7 @@ ProjectIdeas
 ###### Music and hardware
 * better looping program for guitar
 * create a recommendation engine with social elements - what are my friends listening to?
+* Content-curation web application - where users create a series of top 5 lists (instead of sharing tweets or photos, share your “Top 5 __________”, top 5 tech articles of the day, top 5 beatles songs, top 5 tv shows of the moment, top 5 books of the moments, etc). Follow people based on shared interests and tastes, and discover new content based on who you follow. Each item in a list is a sort of portal that takes you to all others who have the same rankings/lists (think #hashtag) or to the actual article, spotify song link, show on netflix, etc.
 
 ###### Data analytics
 * predictive modeling for sports teams 
