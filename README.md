@@ -12,6 +12,7 @@ ProjectIdeas
 ###### Data analytics
 * predictive modeling for sports teams 
 * Gaming the stock market using sentiment analysis of Twitter in R
+* A new approach to predictive time series data analytics without mathematical models or scientifc theories.  Just big data.
 
 ###### Theoretical/academic
 * Javascript parser/interpreter - possibly extend to include analysis and visualizations of time and space complexity
